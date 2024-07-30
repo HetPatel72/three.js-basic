@@ -1,0 +1,1 @@
+assets/donut.obj filter=lfs diff=lfs merge=lfs -text
